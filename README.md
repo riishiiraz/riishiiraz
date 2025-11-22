@@ -21,6 +21,6 @@ Beyond web development, I actively explore DSA (Data Structures and Algorithms) 
 
 # 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riishiiraz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishitosh-raz)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/riishiiraz)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/riishiiraz) [![Stack Overflow](https://img.shields.io/badge/-Letterboxd-6567ba?logo=letterboxd)](https://letterboxd.com/riishiiraz/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riishiiraz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishitosh-raz)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/riishiiraz)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11320826/riishiiraz) [![Letterboxd](https://img.shields.io/badge/-Letterboxd-6567ba?logo=letterboxd)](https://letterboxd.com/riishiiraz/)
 
 
